@@ -1,0 +1,147 @@
+.loremIpsumIs {
+  position: absolute;
+  top: 151.7px;
+  left: 0;
+  display: inline-block;
+  width: 433px;
+  height: 62.75px;
+  color: white;
+}
+.polygon1{
+  padding:0 0 50 20;
+  width: 2000.277px;
+height: 1649.42px;
+transform: rotate(-10.57deg);
+margin-top: -300px;
+margin-left: -430px;
+
+
+}
+
+
+.polygon2{
+  width: 1310px;
+  height: 777px;
+  transform: rotate(-5.608deg);
+  margin-top: -400px;
+  margin-right: -200px;
+  padding: -20 -10 100 70;
+}
+
+.learnHowTo,
+.title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 580px;
+  color: white;
+}
+.learnHowTo {
+  font-size: var(--heading-heading-1-size);
+  display: inline-block;
+  height: 127.7px;
+}
+.title {
+  height: 214.45px;
+}
+.button,
+.signUpNow {
+  position: absolute;
+  top: 19px;
+  left: 55px;
+}
+.button {
+  top: 296.14px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #4776e6, #8e54e9);
+  width: 237px;
+  height: 74.86px;
+  font-size: var(--text-20-bold-size);
+  font-family: var(--text-20-bold);
+}
+.content,
+.frameChild {
+  position: absolute;
+  top: 94px;
+  left: 175px;
+  width: 580px;
+  height: 371px;
+}
+.frameChild {
+  top: 153.96px;
+  left: 774.1px;
+  width: 550px;
+  height: 370px;
+}
+.everyoneIsSmilingListensGrIcon,
+.groupBusinessWorkersSmilingIcon {
+  position: absolute;
+  top: 94px;
+  left: 773px;
+  border-radius: var(--br-3xs);
+  width: 491px;
+  height: 281px;
+  object-fit: cover;
+}
+.groupBusinessWorkersSmilingIcon {
+  top: 184px;
+  left: 720px;
+}
+.groupIcon {
+  position: relative;
+  width: 46.6px;
+  height: 54.14px;
+}
+.streamlinecomputerVoiceMail {
+  position: absolute;
+  top: 431px;
+  left: 1253.19px;
+  border-radius: var(--br-8xs);
+  background-color: var(--default-white);
+  box-shadow: 0 10px 40px rgba(154, 148, 148, 0.25);
+  width: 63px;
+  height: 62px;
+  display: flex;
+  flex-direction: row;
+  padding: 2px var(--padding-6xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(15.14deg);
+  transform-origin: 0 0;
+}
+.vectorIcon {
+  position: relative;
+  width: 44.79px;
+  height: 34.39px;
+}
+.solarpodcastOutline {
+  position: absolute;
+  top: 264.82px;
+  left: 1295px;
+  border-radius: var(--br-8xs);
+  background-color: var(--default-white);
+  box-shadow: 0 10px 40px rgba(154, 148, 148, 0.25);
+  width: 65px;
+  height: 65px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xs) var(--padding-10xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-16.83deg);
+  transform-origin: 0 0;
+}
+.contentParent {
+  position: relative;
+  width: 100%;
+  height: 652px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-16-regular-size);
+  color: var(--default-white);
+  font-family: var(--text-16-regular);
+}

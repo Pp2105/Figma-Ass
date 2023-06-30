@@ -1,0 +1,242 @@
+.groupChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1439px;
+    height: 531.08px;
+  }
+  .groupInner,
+  .groupItem,
+  .podcast {
+    position: absolute;
+    top: 17.94px;
+    left: 1px;
+    width: 1439px;
+    height: 531.14px;
+  }
+  .groupInner,
+  .podcast {
+    top: 36.94px;
+    left: 2px;
+  }
+  .podcast {
+    top: 119px;
+    left: 836px;
+    display: inline-block;
+    width: 641px;
+    height: 158px;
+  }
+  .vectorParent {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    width: 1477px;
+    height: 568px;
+    
+  }
+  .chooseYourPlan,
+  .loremIpsumIs {
+    position: relative;
+  }
+  .loremIpsumIs {
+    font-size: var(--text-14-regular-size);
+    font-family: var(--text-20-bold);
+    text-align: center;
+    display: inline-block;
+    width: 455px;
+  }
+  .monthlyWrapper,
+  .title {
+    display: flex;
+    align-items: center;
+  }
+  .title {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .monthlyWrapper {
+    border-radius: var(--br-3xs);
+    background-color: var(--light);
+    flex-direction: row;
+    padding: var(--padding-10xs) 9px;
+    justify-content: center;
+  }
+  .radio,
+  .titleParent {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .radio {
+    border-radius: var(--br-3xs);
+    background-color: var(--default-white);
+    box-shadow: 0 10px 30px rgba(154, 148, 148, 0.25);
+    height: 37px;
+    flex-direction: row;
+    padding: var(--padding-7xs) 1var (--padding-7xs) var(--padding-7xs) 6px;
+    box-sizing: border-box;
+    gap: var(--gap-3xs);
+    text-align: center;
+    font-size: var(--text-14-regular-size);
+    font-family: var(--text-20-bold);
+  }
+  .titleParent {
+    position: absolute;
+    top: 0;
+    left: 317px;
+    flex-direction: column;
+    gap: var(--gap-5xl);
+  }
+  .loremIpsumIs1 {
+    position: relative;
+    font-size: var(--text-12-regular-size);
+    font-family: var(--text-20-bold);
+    display: inline-block;
+    width: 264px;
+  }
+  .basicPlanParent {
+    width: 249px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-base);
+    font-size: var(--text-16-regular-size);
+  }
+  .month {
+    position: relative;
+    font-size: var(--text-14-regular-size);
+    font-family: var(--text-20-bold);
+  }
+  .parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-lgi);
+    font-size: var(--heading-heading-3-size);
+    color: var(--ghost);
+  }
+  .vectorIcon {
+    position: relative;
+    width: 4.75px;
+    height: 4.75px;
+  }
+  .frameGroup,
+  .vectorGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .frameGroup {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--gap-5xs);
+  }
+  .startFreeTrial {
+    position: absolute;
+    top: 14px;
+    left: 31px;
+  }
+  .plan,
+  .startFreeTrialWrapper {
+    border: 0.5px solid var(--ghost);
+  }
+  .startFreeTrialWrapper {
+    position: relative;
+    border-radius: var(--br-8xs);
+    box-sizing: border-box;
+    width: 149px;
+    height: 44px;
+    color: var(--ghost);
+    font-family: var(--text-20-bold);
+  }
+  .plan {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--default-white);
+    flex-direction: column;
+    padding: var(--padding-16xl) var(--padding-8xl);
+    align-items: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .container,
+  .plan,
+  .plan1 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .plan1 {
+    position: absolute;
+    top: 0;
+    left: 787px;
+    border-radius: var(--br-3xs);
+    background-color: var(--default-white);
+    border: 0.5px solid var(--ghost);
+    flex-direction: column;
+    padding: var(--padding-16xl) var(--padding-8xl);
+    align-items: flex-start;
+    gap: var(--gap-5xl);
+  }
+  .container {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--gap-lgi);
+    font-size: var(--heading-heading-3-size);
+  }
+  .startFreeTrialFrame {
+    position: relative;
+    border-radius: var(--br-8xs);
+    background-color: var(--default-white);
+    width: 149px;
+    height: 44px;
+    color: var(--ghost);
+    font-family: var(--text-20-bold);
+  }
+  .plan2 {
+    position: absolute;
+    top: 0;
+    left: 393px;
+    border-radius: var(--br-3xs);
+    background-color: var(--ghost);
+    display: flex;
+    flex-direction: column;
+    padding: var(--padding-16xl) var(--padding-8xl);
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xl);
+    color: var(--default-white);
+  }
+  .frameParent,
+  .planParent {
+    position: absolute;
+    top: 220px;
+    left: 0;
+    width: 1090px;
+    height: 357px;
+    font-size: var(--text-12-regular-size);
+  }
+  .frameParent {
+    top: 76px;
+    left: 175px;
+    height: 577px;
+    font-size: var(--heading-heading-3-size);
+    color: var(--color-black);
+    font-family: var(--text-16-regular);
+  }
+  .groupParent {
+    position: relative;
+    width: 100%;
+    height: 691px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 150px;
+    color: #eee;
+    font-family: var(--text-20-bold);
+  }
+  

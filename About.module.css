@@ -1,0 +1,123 @@
+.interactiveFeatures,
+.loremIpsumIs {
+  position: relative;
+}
+.loremIpsumIs {
+  font-size: var(--text-12-regular-size);
+  display: inline-block;
+  width: 208px;
+}
+
+.polygon1{
+  padding:0 0 50 20;
+  width: 552px;
+height: 600px;
+transform: rotate(-10.57deg);
+margin-top: -300px;
+margin-left: -130px;
+
+
+}
+
+.pngwing1Icon {
+    top: 1044px;
+    left: 1552px;
+    width: 597px;
+    height: 441px;
+    object-fit: cover;
+    margin-right: 0%;
+    align-items: flex-end;
+    display: flex;
+    margin-left: 70%;
+    
+  }
+.course1,
+.course11,
+.course12,
+.course2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 0.5px solid var(--secondary);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-11xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  
+  border: 0.5px solid var(--ghost);
+}
+.course11,
+.course12,
+.course2 {
+  top: 214px;
+}
+.course11,
+.course12 {
+  top: 23px;
+  left: 284px;
+}
+.course12 {
+  top: 237px;
+}
+.course {
+  position: absolute;
+  top: 49px;
+  left: 175.5px;
+  width: 552px;
+  height: 397px;
+}
+.loremIpsumIs4 {
+  position: relative;
+  font-size: var(--text-14-regular-size);
+  font-family: var(--text-20-bold);
+  display: inline-block;
+  width: 367px;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.exploreNow {
+  position: absolute;
+  top: 15px;
+  left: 56px;
+}
+.button {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(90deg, #4776e6, #8e54e9);
+  width: 237px;
+  height: 60px;
+  font-size: var(--text-20-bold-size);
+  color: #fff;
+  font-family: var(--text-20-bold);
+}
+.titleParent {
+  position: absolute;
+  top: 125.5px;
+  left: 847.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  font-size: var(--heading-heading-1-size);
+  font-family: var(--heading-heading-1);
+}
+.courseParent {
+  position: relative;
+  width: 100%;
+  height: 525px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--text-20-bold-size);
+  color: var(--color-black);
+  font-family: var(--text-20-bold);
+}
